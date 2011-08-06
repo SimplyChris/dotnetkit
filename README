@@ -1,0 +1,8 @@
+.NET Toolkit
+
+Contains central repo for my standard libraries and development tools, etc..
+
+08/05/2011
+--Added StructureMap 2.6.1.0
+--Added nunit 2.5.7.10213
+--Added Log4Net 1.2.10.0
